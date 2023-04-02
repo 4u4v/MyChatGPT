@@ -629,7 +629,7 @@ export function Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>水木的ChatGPT(国内版)</div>
           <div className={styles["sidebar-sub-title"]}>
-            水木创建的ChatGPT，国内可直接访问使用！
+            水木的ChatGPT聊天机器人，国内可直接访问使用！
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
