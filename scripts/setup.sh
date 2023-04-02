@@ -52,7 +52,7 @@ fi
 
 # Clone the repository and install dependencies
 git clone https://github.com/4u4v/MyChatGPT
-cd ChatGPT-Next-Web
+cd MyChatGPT
 yarn install
 
 # Prompt user for environment variables
