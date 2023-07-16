@@ -36,4 +36,7 @@ yarn-error.log*
 next-env.d.ts
 dev
 
+yarn.lock
+
+package-lock.json
 public/prompts.json

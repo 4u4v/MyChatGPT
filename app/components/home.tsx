@@ -627,9 +627,9 @@ export function Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>水木的ChatGPT(国内版)</div>
+          <div className={styles["sidebar-title"]}>水木的ChatGPT(国内免费版)</div>
           <div className={styles["sidebar-sub-title"]}>
-            水木的ChatGPT聊天机器人，国内可直接访问使用！
+            水木的ChatGPT聊天机器人，国内可直接访问免费使用！
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
