@@ -8,6 +8,7 @@ import styles from "./home.module.scss";
 
 import SettingsIcon from "../icons/settings.svg";
 import GithubIcon from "../icons/github.svg";
+import ChatGptPlusIcon from "../icons/chatgptplus.svg";
 import ChatGptIcon from "../icons/chatgpt.svg";
 import SendWhiteIcon from "../icons/send-white.svg";
 import BrainIcon from "../icons/brain.svg";
@@ -668,8 +669,8 @@ export function Home() {
               />
             </div>
             <div className={styles["sidebar-action"]}>
-              <a href="http://www.4u4v.net/" target="_blank">
-                <IconButton icon={<GithubIcon />} />
+              <a href="https://chatgpt.4u4v.com" target="_blank">
+                <IconButton icon={<GithubIcon />} text={Locale.Home.ChatGptPlus} />
               </a>
             </div>
           </div>
