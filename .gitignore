@@ -37,6 +37,7 @@ next-env.d.ts
 dev
 
 yarn.lock
+*.lock
 
 package-lock.json
 public/prompts.json
