@@ -42,6 +42,7 @@ const en: LocaleType = {
     Copy: "Copy All",
   },
   Home: {
+    ChatGptPlus: "Chat GPT Plus",
     NewChat: "New Chat",
     DeleteChat: "Confirm to delete the selected conversation?",
   },
