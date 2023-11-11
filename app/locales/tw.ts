@@ -41,6 +41,7 @@ const tw: LocaleType = {
     Copy: "複製全部",
   },
   Home: {
+    ChatGptPlus: "增強版ChatGPT",
     NewChat: "新的對話",
     DeleteChat: "確定要刪除選取的對話嗎？",
   },
